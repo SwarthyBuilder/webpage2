@@ -1,4 +1,4 @@
-$(doccument).ready(function(){ 
+$(document).ready(function(){ 
  $("p").click(function(){
 $("p.answer1").show(); 
  });
